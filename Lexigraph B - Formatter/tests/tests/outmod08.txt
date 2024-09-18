@@ -1,0 +1,63 @@
+
+Set of Strings:
+{under the dome}
+{under the dome}
+{the girl who loved tom gordon}
+{the girl who loved tom gordon}
+{the girl who loved tom gordon}
+{the girl who loved tom gordon}
+{the girl who loved tom gordon}
+{bag of bones}
+{bag of bones}
+{the green mile}
+{the green mile}
+{the dark tower iv wizard and glass}
+{the dark tower iv wizard and glass}
+{the dark tower iv wizard and glass}
+{the dark tower iv wizard and glass}
+{the dark tower iv wizard and glass}
+{the dark tower v song of susannah}
+{the dark tower v song of susannah}
+{the dark tower v song of susannah}
+{the dark tower v song of susannah}
+
+Set of words:
+{and}
+{bag}
+{bones}
+{dark}
+{dark}
+{dome}
+{girl}
+{glass}
+{gordon}
+{green}
+{loved}
+{mile}
+{song}
+{susannah}
+{tom}
+{tower}
+{tower}
+{under}
+{who}
+{wizard}
+the dark tower iv wizard AND glass
+BAG of bones
+bag of BONES
+the DARK tower iv wizard and glass
+the DARK tower iv wizard and glass
+under the DOME
+the GIRL who loved tom gordon
+the dark tower iv wizard and GLASS
+the girl who loved tom GORDON
+the GREEN mile
+the girl who LOVED tom gordon
+the green MILE
+the dark tower v SONG of susannah
+the dark tower v song of SUSANNAH
+the girl who loved TOM gordon
+the dark TOWER iv wizard and glass
+the dark TOWER v song of susannah
+UNDER the dome
+the girl WHO loved tom gordon
