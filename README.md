@@ -1,4 +1,4 @@
-# Lexigraph
+# Lexigraphy Context Mapper
 
 **Lexigraph** is a Python and C-based tool designed to generate keyword-in-context concordances from text files, providing users with powerful text indexing and contextual analysis. This tool facilitates the exploration of large text datasets by indexing words and offering a detailed view of their contextual usage.
 
