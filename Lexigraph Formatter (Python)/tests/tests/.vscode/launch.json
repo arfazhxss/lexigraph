@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/arfazhussain/Library/CloudStorage/OneDrive-UniversityofVictoria/0 UVIC/4 Second Year Engineering/3 SENG 265 A02 B02/4 Git Repository/arfazhussain/a1/tests",
+      "program": "/Users/arfazhussain/Library/CloudStorage/OneDrive-UniversityofVictoria/0 UVIC/4 Second Year Engineering/3 SENG 265 A02 B02/4 Git Repository/arfazhussain/a1/tests/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
