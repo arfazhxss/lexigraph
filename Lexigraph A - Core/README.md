@@ -1,7 +1,3 @@
-Here’s an updated and enhanced `README.md` file based on the project description, previous README, and the Python test file:
-
----
-
 # **Lexigraph - Core Functionalities**
 
 ## **Overview**
@@ -52,7 +48,7 @@ A Python script is provided to automate the testing process. It compiles the pro
 2. Execute the test script:
 
    ```bash
-   python3 test-src.py
+   python3 test-lex-A.py
    ```
 
    **Sample Output:**
@@ -75,11 +71,3 @@ A Python script is provided to automate the testing process. It compiles the pro
 ## **Contributing**
 
 Contributions to improve the tool are welcome. Please submit issues or pull requests for bug fixes or new features.
-
-## **Contact**
-
-For questions or feedback, please contact [Your Name] at [Your Email Address].
-
----
-
-Feel free to adjust the contact information or any other details as needed!
